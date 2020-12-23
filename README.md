@@ -11,3 +11,6 @@ Now there is a requirement that the hotel has introduced a new Executive Room ty
 ## Application output
 
 ![](decorator-design-pattern-application-output.png)
+
+
+The details about Decorator Design Pattern and details about the application can be found at the following blog: https://executecommands.com/decorator-design-pattern-csharp-simple-example/
