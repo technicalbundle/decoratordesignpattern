@@ -1,4 +1,4 @@
-# DecoratorDesignPattern
+# Decorator Design Pattern in C#
 A NET Core C# console application to implement the Decorator Design Pattern using a simple example.
 
 
